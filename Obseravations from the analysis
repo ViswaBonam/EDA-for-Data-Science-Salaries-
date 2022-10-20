@@ -1,0 +1,8 @@
+1. Average salary based on the experience level of the employees
+![](Visualizations/experience_level vs salary_in_usd.png)
+
+From the above plot, the mean salary for each experience level is given as
+* Mid Level : 76.94K USD
+* Senior Level : 135K USD
+* Entry Level : 56.5K USD
+* Executive level : 171.437K USD
