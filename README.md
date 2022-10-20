@@ -3,7 +3,16 @@ Exploratory Data Analysis of the salaries of data science jobs.
 * Operations performed on the dataset:
 1. Data Cleaning
 2. Data Analysis
-3.  
+3. Questions answered using the dataset
+   * Average salary based on the experience level of the employees
+   * How many data science jobs are present for a given country?
+   * Average salary for the top 10 countries
+   * Which data science roles pay the hightest?
+   * Variation of data science job salaries over the years
+   * Company Analysis
+   * Distribution of remote employees
+   * Job title and number of employees
+   * Data Sceince Salaries by Company Size  
 
 # Data fields
 
