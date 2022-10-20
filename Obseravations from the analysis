@@ -1,6 +1,6 @@
 1. Average salary based on the experience level of the employees
-![](Visualizations/avg%20salary%20per%20job%20title.png)
-<img src="Visualizations/avg%20salary%20per%20job%20title.png"
+
+https://github.com/ViswaBonam/EDA-for-Data-Science-Salaries-/blob/main/Visualizations/experience_level%20vs%20salary_in_usd.png
 
 From the above plot, the mean salary for each experience level is given as
 * Mid Level : 76.94K USD
