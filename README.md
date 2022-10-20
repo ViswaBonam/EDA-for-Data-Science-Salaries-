@@ -11,7 +11,7 @@ Here's a brief version of what you'll find in the data description file.
 * job_title:	The role worked in during the year.
 * salary:	The total gross salary amount paid.
 * salary_currency:	The currency of the salary paid as an ISO 4217 currency code.
-*salary_in_usd:	The salary in USD (FX rate divided by avg. USD rate for the respective year via fxdata.foorilla.com).
+* salary_in_usd:	The salary in USD (FX rate divided by avg. USD rate for the respective year via fxdata.foorilla.com).
 * employee_residence:	Employee's primary country of residence in during the work year as an ISO 3166 country code.
 * remote_ratio:	The overall amount of work done remotely, possible values are as follows: 0 No remote work (less than 20%) 50 Partially remote 100 Fully remote (more than 80%)
 *company_location:	The country of the employer's main office or contracting branch as an ISO 3166 country code.
