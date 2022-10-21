@@ -30,7 +30,7 @@ Here's a brief version of what you'll find in the data description file.
 * company_location:	The country of the employer's main office or contracting branch as an ISO 3166 country code.
 * company_size:	The average number of people that worked for the company during the year: S less than 50 employees (small) M 50 to 250 employees (medium) L more than 250 employees (large)
 
-# Observations made from the analysis
+# Observations made from the analysis:
 1. Average salary based on the experience level of the employees
 ![](Visualizations/experience_level%20vs%20salary_in_usd.png)
 From the above plot, the mean salary for each experience level is given as
